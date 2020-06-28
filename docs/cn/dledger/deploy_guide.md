@@ -27,7 +27,7 @@ RocketMQ-on-DLedger Group 是可以水平扩展的，也即可以部署任意多
 ```
 brokerClusterName = RaftCluster
 brokerName=RaftNode00
-listenPort=30911
+listenPort=40911
 namesrvAddr=127.0.0.1:9876
 storePathRootDir=/tmp/rmqstore/node00
 storePathCommitLog=/tmp/rmqstore/node00/commitlog
